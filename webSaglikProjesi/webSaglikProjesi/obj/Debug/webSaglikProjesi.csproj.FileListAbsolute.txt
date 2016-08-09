@@ -1,0 +1,68 @@
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\csc.exe
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\vbc.exe
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll.config
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.pdb
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.dll
+C:\Users\wissen\Documents\MS-Yaz-10\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\csc.exe
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\vbc.exe
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll.config
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.SqlServer.dll
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.xml
+c:\users\wissen\documents\visual studio 2015\Projects\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\csc.exe
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\vbc.exe
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll.config
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\webSaglikProjesi.pdb
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.SqlServer.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.xml
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\EntityFramework.SqlServer.xml
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.csprojResolveAssemblyReference.cache
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.dll
+C:\Users\VİLDAN\Downloads\webSaglikProjesi\webSaglikProjesi\webSaglikProjesi\obj\Debug\webSaglikProjesi.pdb
